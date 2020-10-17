@@ -1,6 +1,8 @@
 # planet_hack_2020_deforestation
 Related Project Pitch: https://github.com/planetlabs-community/planet-hack-2020/issues/64\
 
+Final DETER table w/ links to webapp in notebooks/7months_english_flaskapp_url.csv
+
 # Links to wiki
 Click here for more: 
 * Home </br> https://github.com/kevinlacaille/planet_hack_2020_deforestation/wiki
